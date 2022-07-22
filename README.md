@@ -1,6 +1,6 @@
 # Instagram Manager Bot
 The most advanced Instagram Downloader Bot.
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/-CHjg7?referralCode=akash2006)
 ```
 Please fork this repository don't import code
 Made with Python3
